@@ -31,7 +31,10 @@ This repo serves as the **central hub** for our community guidelines, learning r
 
 1. **Join Us**  
    - Follow us on GitHub  
-   - Connect via [Telegram/Discord/Slack] (to be defined)  
+   - Connect via [Discord] (https://discord.gg/3JEneP7h)  
+   - Connect via [Youtube] (https://www.youtube.com/@djangorwanda)  
+   - Connect via [WhatsApp] (https://chat.whatsapp.com/GvIF9Mw1E2ZBf2S5wazfOo?mode=ac_t)  
+   - Connect via [LinkedIn] (https://www.linkedin.com/groups/11814036)  
    - Attend our community meetups and events  
 
 2. **Contribute**  
