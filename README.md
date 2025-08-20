@@ -31,10 +31,10 @@ This repo serves as the **central hub** for our community guidelines, learning r
 
 1. **Join Us**  
    - Follow us on GitHub  
-   - Connect via [Discord] (https://discord.gg/3JEneP7h)  
-   - Connect via [Youtube] (https://www.youtube.com/@djangorwanda)  
-   - Connect via [WhatsApp] (https://chat.whatsapp.com/GvIF9Mw1E2ZBf2S5wazfOo?mode=ac_t)  
-   - Connect via [LinkedIn] (https://www.linkedin.com/groups/11814036)  
+   - [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3JEneP7h)
+   - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@djangorwanda)
+   - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GvIF9Mw1E2ZBf2S5wazfOo?mode=ac_t)
+   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/11814036)
    - Attend our community meetups and events  
 
 2. **Contribute**  

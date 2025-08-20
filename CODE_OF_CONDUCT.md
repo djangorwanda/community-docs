@@ -1,6 +1,4 @@
 
----
-```markdown
 # Django Rwanda Community Code of Conduct
 
 We are committed to creating a welcoming, inclusive, and respectful environment for everyone.  
